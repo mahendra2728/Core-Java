@@ -31,7 +31,7 @@ public class OutlookEmailSend {
         {
         Authenticator auth = new javax.mail.Authenticator() {
             protected PasswordAuthentication getPasswordAuthentication() {
-                return new PasswordAuthentication("mahendra.maske@nextenture.com", "jesus@2728");
+                return new PasswordAuthentication("mahendra.maske@nextenture.com", "XXXXX");
             }
           };
 
